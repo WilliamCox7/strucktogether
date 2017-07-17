@@ -1,0 +1,17 @@
+<svg id="Group_82" data-name="Group 82" xmlns="http://www.w3.org/2000/svg" viewBox="1403 55 63 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7bc1b0;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 20px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-1" width="63" height="40" rx="8" transform="translate(1403 55)"/>
+  <text id="Blog" class="cls-2" transform="translate(1415 82)"><tspan x="0" y="0">Blog</tspan></text>
+</svg>
